@@ -1,4 +1,3 @@
-<h1>My Second Blog Post</h1>
+<h1>Лучшие капли от насморка</h1>
 
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci sunt, itaque exercitationem quia explicabo sequi natus obcaecati, voluptatibus laborum accusamus ratione, quos officia. Officia hic esse, perferendis ex quia eaque.</p>
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore officia quaerat incidunt optio et omnis, exercitationem molestias hic! Quos repudiandae odit molestias? Commodi quia, laboriosam mollitia ducimus reprehenderit dolor possimus!</p>
+Если у вас заложен нос, запахи вокруг перестают существовать, меняется восприятие вкусов, а носового платка хватает всего на полчаса — вам помогут капли от насморка. Но будьте осторожнее, некоторые из них могут вызвать привыкание

@@ -1,3 +1,8 @@
-<h1>My First Blog Post</h1>
-<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Adipisci sunt, itaque exercitationem quia explicabo sequi natus obcaecati, voluptatibus laborum accusamus ratione, quos officia. Officia hic esse, perferendis ex quia eaque.</p>
-<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tempore officia quaerat incidunt optio et omnis, exercitationem molestias hic! Quos repudiandae odit molestias? Commodi quia, laboriosam mollitia ducimus reprehenderit dolor possimus!</p>
+<h1>Почему чтение продлевает жизнь?</h1>
+<p>Наблюдение за респондентами в течение 12 лет показало, что у читавших книги до 3,5 часа в неделю вероятность смерти была на 17 процентов ниже, чем у нечитающих.
+
+    <p>А у тех, кто занимался чтением более 3,5 часа в неделю, риск смерти был на 23 процента меньше. Длительность жизни тех, кто читал, в среднем на два года больше, чем у нечитающих в принципе.
+    
+    <p> Другое интересное исследование провели учёные из Университета Карнеги-Меллон в Питтсбурге (США). Участники эксперимента в течение шести месяцев учились по специальной программе, включающей большой объём чтения.
+    
+    <p>По завершении срока обучения исследователи обнаружили, что объём белого вещества у испытуемых увеличился. Оно обеспечивает взаимосвязь между разными участками нервной системы. Это, в свою очередь, отвечает за координацию всей работы нашего организма.</p>

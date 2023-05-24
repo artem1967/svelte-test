@@ -1,13 +1,13 @@
 export const routes = [
     {
       id: 1,
-      title: 'My First Blog Post',
-      body: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate',
+      title: 'Почему чтение продлевает жизнь?',
+      body: 'Наблюдение за респондентами в течение 12 лет показало, что у читавших книги до 3,5 часа в неделю вероятность смерти была на 17 процентов ниже, чем у нечитающих.',
     },
 {
     "id": 2,
-    "title": "My Second Blog Post",
-    "body": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis dignissimos dolorem ea ex maiores minima minus nisi perspiciatis sapiente voluptate"
+    "title": "Лучшие капли от насморка",
+    "body": "Если у вас заложен нос, запахи вокруг перестают существовать, меняется восприятие вкусов, а носового платка хватает всего на полчаса — вам помогут капли от насморка."
   }
   ]
 
