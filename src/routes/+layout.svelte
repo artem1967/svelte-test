@@ -1,6 +1,6 @@
 <nav>
     <div class="nav-container">
-      <a href="/" class="nav-logo" title="Back to Homepage">Имя Фамилия</a>
+      <a href="/" class="nav-logo" title="Back to Homepage">Артем Распутин</a>
       <div class="nav-links">
       
         {#each nav as link}
@@ -51,6 +51,6 @@
     href: '/temp',
     isShow: false,
   },
-];
+  ];
   </script>
   
